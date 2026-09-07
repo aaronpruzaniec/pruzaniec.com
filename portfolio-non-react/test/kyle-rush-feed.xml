@@ -1,0 +1,549 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kyle Rush</title>
+	<atom:link href="http://kylerush.net/feed/" rel="self" type="application/rss+xml" />
+	<link>http://kylerush.net</link>
+	<description>Blog &#38; Portfolio of Kyle Rush</description>
+
+	<lastBuildDate>Wed, 11 Nov 2009 04:05:22 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.8.5</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+
+		<title>jParse: Easily Parse XML with jQuery</title>
+		<link>http://kylerush.net/uncategorized/introducing-jparse-jquery-plugin-parse-xml/</link>
+		<comments>http://kylerush.net/uncategorized/introducing-jparse-jquery-plugin-parse-xml/#comments</comments>
+		<pubDate>Mon, 09 Nov 2009 16:24:30 +0000</pubDate>
+		<dc:creator>Kyle Rush</dc:creator>
+				<category><![CDATA[JavaScript]]></category>
+
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[jQuery]]></category>
+		<category><![CDATA[jparse]]></category>
+
+		<guid isPermaLink="false">http://kylerush.net/?p=416</guid>
+		<description><![CDATA[Today I launched the site of a jQuery plugin that I've been working on called <a href="http://jparse.kylerush.net">jParse</a>. The plugin allows you to easily parse XML that has been fetched with an Ajax request. The plugin works off of jQuery's <a href="http://docs.jquery.com/Ajax/jQuery.ajax#options">ajax method</a>, so all of the same options are available. In terms of parsing, the plugin gives you a few options: Custom Output, Limit, Count of Items and the ability to run functions before and after <a href="http://jparse.kylerush.net">jParse</a> is finished.]]></description>
+			<content:encoded><![CDATA[<p>Today I launched the site of a jQuery plugin that I&#8217;ve been working on called <a href="http://jparse.kylerush.net">jParse</a>. The plugin allows you to easily parse XML that has been fetched with an Ajax request. The plugin works off of jQuery&#8217;s <a href="http://docs.jquery.com/Ajax/jQuery.ajax#options">ajax method</a>, so all of the same options are available. In terms of parsing, the plugin gives you a few options: Custom Output, Limit, Count of Items and the ability to run functions before and after <a href="http://jparse.kylerush.net">jParse</a> is finished.</p>
+<div id="entries-cont" style="margin: 20 0; background: #F0F0F0; padding: 15px;">
+<h3>jParse Demo:</h3>
+<p>The following is populated by jParse from the main RSS feed of this site.</p>
+<div id="entries-inner-cont"></div>
+<p><!--/#entries-inner-cont-->
+</div>
+<p><!--/#entries-cont--></p>
+]]></content:encoded>
+			<wfw:commentRss>http://kylerush.net/uncategorized/introducing-jparse-jquery-plugin-parse-xml/feed/</wfw:commentRss>
+
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Front-end Development Work Flow Model</title>
+		<link>http://kylerush.net/browsers/frontend-development-work-flow-model/</link>
+		<comments>http://kylerush.net/browsers/frontend-development-work-flow-model/#comments</comments>
+		<pubDate>Sun, 27 Sep 2009 05:11:33 +0000</pubDate>
+
+		<dc:creator>Kyle Rush</dc:creator>
+				<category><![CDATA[Browsers]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[(x)html]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[internet explorer]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[quality assurance]]></category>
+
+		<category><![CDATA[testing]]></category>
+		<category><![CDATA[validate]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[w3c]]></category>
+		<category><![CDATA[workflow]]></category>
+
+		<guid isPermaLink="false">http://kylerush.net/?p=402</guid>
+		<description><![CDATA[A workflow model for front-end web development which seeks to lower development time and frustration in testing in old browsers. ]]></description>
+			<content:encoded><![CDATA[<h2><a href="#build">1. Build a Little</a></h2>
+<h2><a href="#stop">2. Stop</a></h2>
+<h2><a href="#validate">3. Validate</a></h2>
+<h2><a href="">4. Test</a></h2>
+<h2><a href="">5. Repeat</a></h2>
+<p>&nbsp;</p>
+<p>The other day while working with an intern in our office, I mapped out a workflow that I use almost every day, but didn&#8217;t even realize it. The steps in this workflow are above. The purpose of this workflow is to lessen development time and ensure quality in the work you produce. <b>One important thing to note is that this workflow assumes that your project is &#8220;shovel ready&#8221;, as in all the planning and strategy has already been completed.</b> This model does not cover that part of a project.</p>
+<h2 id="build">Step 1: Build a Little</h2>
+<div class="wp-caption alignnone" style="width: 640px"><img alt="Some XHTML &#038; PHP" src="http://kylerush.net/images/posts/workflow/some-code.png" title="Some XHTML &#038; PHP" width="630" height="200" /><p class="wp-caption-text">Some XHTML &#038; PHP</p></div>
+<p>The first step in my workflow is to build. Build a little that is. It&#8217;s important not to build your entire project in the first step. If you do this, it will only make validation and testing harder. If I&#8217;m building a full layout template for a website, then I will typically build a third of it before I move to step two (say the header, content area or footer). How much you build will largely depend on your experience and skill level. Those new to the field may want to build less while those with a decent amount of experience will be just fine building more. If you are just starting out you will eventually notice a natural inclination to build more before moving to validation. This progression will be the direct results of what you learn in steps three and four.</p>
+<h2 id="stop">Step 2: Stop</h2>
+<p>This step is self explanatory, but probably the most important. As I explained above, my experience has proven that not stopping only makes steps three and four more painful&#8211;most of the time. So no matter how tempting it is to keep building, remember to stop at some point to move onto the next step.</p>
+<h2 id="validate">Step 3: Validate</h2>
+<p>Validation isn&#8217;t exactly my push for standards driven front-end work&#8211;although I believe in it highly. This step is more about learning the language in which you write more clearly and not mention making your life arguably much easier with quirky browsers. It is likely that the project you are building has to support some of the older browsers in the market, however unfortunate that may be. In this instance, you&#8217;ll want to have the most valid code that you can possibly have before moving to testing. This is because what you may perceive as a browser quirk, may actually be a fault in your code (say an unclosed p tag), in which case you may spend many wasted hours trying to correct that during the testing phase. I have done this many times and it&#8217;s a huge waste of time, not to mention frustrating.</p>
+<div class="wp-caption alignnone" style="width: 640px"><img alt="W3C Validator and JSLint" src="http://kylerush.net/images/posts/workflow/w3c-jslint.png" title="W3C Validator and JSLint" width="630" height="200" /><p class="wp-caption-text">W3C Validator and JSLint</p></div>
+<p>It is important that you validate all the code you&#8217;ve written, whether it&#8217;s (X)HTML, CSS or JavaScript. All of them need to be validated. The <a href="http://www.w3.org/">W3C</a> has both an <a href="http://validator.w3.org/">(X)HTML</a> and <a href="http://jigsaw.w3.org/css-validator/">CSS</a> validator that are quite easy to use. The W3C does not&#8211;at the time of this writing&#8211;have a JavaScript validator. For JavaScript validation, I use <a href="http://www.jslint.com/">JSLint</a>.</p>
+<p>This is not to say that validating will solve all your problems before testing. If that were the case then there wouldn&#8217;t be a need the fourth step at all. How far you go with fixing validation errors is your decision. I can certainly understand a need for invalid code in some cases (e.g. YouTube embed code), however, for the most part I prefer 100$ valid (X)HTML, CSS and JavaScript. </p>
+<p>Note that at some point in this model, steps three and four will become intermingled and you will definitely need to cycle back and forth between the two before moving on. This is explained in the next step.</p>
+<h2 id="test">Step 4: Test</h2>
+<p>Testing is the hardest and most time consuming. The good thing is, the more you do it, the less frustrating and time consuming it will be in the future. Testing is all about ensuring that the (X)HTML, CSS and JavaScript that you built in step one displays acceptably in all your supported browsers. As mentioned above, it&#8217;s possible and very likely, that 100% valid code will not display/work the way you intended it to in all browsers. This is why testing is so important. There is little use of doing anything in step one if users are not able to actually use what you built.</p>
+<p>At some point in testing, you will likely alter the code that you built in step one. In this case, I usually continue until editing the code until my testing is complete. After this, you will have essentially circumvented the validation step. Because of this I recommend that you go back and validate your code. This can be a cyclical process, but in the end, you will hopefully have valid code that displays/works how you intend it to.</p>
+<div class="wp-caption alignnone" style="width: 640px"><img alt="Common Browsers to Test With" src="http://kylerush.net/images/posts/workflow/common-browsers.png" title="Common Browsers to Test With" width="630" height="200" /><p class="wp-caption-text">Common Browsers to Test With</p></div>
+<p>The tools I use in this step are many. I have two old computers at my desk, each with a Windows XP install. One has IE6 and the other with IE7. I test for IE8 on the windows machine I primarily use. I use profiles and separate installs for Firefox and Safari testing. I have noticed some variation in display across operating systems on the same browser, so I use a coworker&#8217;s Apple to test on MACs. You can duplicate this by searching Craigslist for old computers. The computers don&#8217;t need impressive specifications because after all, you&#8217;ll only be using them to run Internet Explorer, which requires very little resources. The two computers I use were just laying around our office not being used so I got lucky. You may want to search your office for old unused computers like I did. Another option I suggest is purchasing a license of <a href="http://www.vmware.com/">VMWARE</a>, which will let you run a virtual computer inside your computer. This essentially gives you another install of an operating system that you can run asynchronously with your development. I used this method to test before I setup some quality assurance machines, but I found it to be resource intensive and also took up half of my screen real estate. There are several options that replicate older versions of Internet Explorer and other browsers, but I haven&#8217;t had the best of luck with those, so for professional development I wouldn&#8217;t suggest them.</p>
+<h2 id="repeat">Step 5: Repeat</h2>
+<p>What do you think? Is there anything different in your workflow that you want to add? Anything you disagree with? Let us know in the comments.</p>
+]]></content:encoded>
+
+			<wfw:commentRss>http://kylerush.net/browsers/frontend-development-work-flow-model/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Tutorial: Use the Flickr API, Javascript (jQuery), AJAX and JSON to Build Detailed a Photo Wall</title>
+		<link>http://kylerush.net/javascript/tutorial-flickr-api-javascript-jquery-ajax-json-build-detailed-photo-wall/</link>
+		<comments>http://kylerush.net/javascript/tutorial-flickr-api-javascript-jquery-ajax-json-build-detailed-photo-wall/#comments</comments>
+
+		<pubDate>Wed, 17 Jun 2009 04:34:18 +0000</pubDate>
+		<dc:creator>Kyle Rush</dc:creator>
+				<category><![CDATA[AJAX]]></category>
+		<category><![CDATA[Flickr]]></category>
+		<category><![CDATA[JSON]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[jQuery]]></category>
+
+		<guid isPermaLink="false">http://kylerush.net/?p=322</guid>
+		<description><![CDATA[In this tutorial, I'll show you how to create a photo wall of your Flickr photos. The script will use jQuery to send several Ajax requests for JSON data and then ultimately insert all of the images and the information associated with them into the document. The photo wall will be complete with a rollover on each image which will show and link to the information that is available for the image.]]></description>
+			<content:encoded><![CDATA[<div class="wp-caption alignnone" style="width: 640px"><img title="Photos by Kyle Rush" src="http://kylerush.net/images/flickr-tutorial/flickr-tutorial-img.jpg" alt="Tutorial: How to Use the Flickr API, JavaScript, jQuery, Ajax and JSON to Build a Photo Wall" width="630" height="200" /><p class="wp-caption-text">Tutorial: How to Use the Flickr API, JavaScript, jQuery, Ajax and JSON to Build a Photo Wall</p></div>
+<div class="demo">
+<p><a href="http://kylerush.net/tutorials/flickr-photo-wall/" target="_blank">VIEW DEMO</a></div>
+<div class="demo">
+<p><a href="http://kylerush.net/tutorials/flickr-photo-wall/flickr-photo-wall.zip" target="_blank">DOWNLOAD THE FILES</a></div>
+<h2>Introduction</h2>
+<p>In this tutorial, I&#8217;ll show you, line by line, how to build a photo wall by pulling your pictures from Flickr using the Flickr API, jQuery, Ajax and JSON. The script I wrote places the following information over the image to which it relates: title, author, comment count, tag listing, location with a link to a map of those coordinates and the description. If any of this information doesn&#8217;t exist for a given photo, the script will just not include it.  If you haven&#8217;t used the Flickr API before, you should read my post on <a href="http://kylerush.net/flickr/flickr-api/">How to Use the Flickr API</a> first. I won&#8217;t provide much explanation here on the Flickr API. This is more a tutorial of interacting with Flickr using JavaScript, jQuery, Ajax, and JSON. You do not need an advanced or intermediate understanding of JavaScript or jQuery because I&#8217;ll explain almost everything. Let&#8217;s get started.</p>
+<h2>Getting Started: the HTML/CSS</h2>
+<p>Because the HTML and CSS to achieve this layout is fairly simple and because this isn&#8217;t an HTML/CSS tutorial, comments on this section will be short. Whenever you are using JavaScript to manipulate the DOM, you have to take into account accessibility. Since we&#8217;ll be adding our Flickr photo to the document after it is loaded, we&#8217;ll need to provide an alternative way to get to the content (your Flickr photos) for visitors without JavaScript enabled. This needs to be handwritten in the HTML. Take note of the element with an ID of <span class="code">a-link</span>. I&#8217;ve written this into the HTML so that anyone without JavaScript enabled can still get to my photos, however, later on I&#8217;ll use JavaScript to remove it immediately so that visitors with JavaScript won&#8217;t see it. That aside, you have to place a container for your images and make sure you give it a unique ID so that later jQuery can quickly find it in the document. Next, create some markup for each of your images. This is completely dependent on how you want your Photo Wall to look. Mine looks like this:</p>
+<div class="clear">
+<pre class="brush: xml">
+<div id="container">
+<h1><a>DEMO: Use the Flickr API, JavaScript (jQuery), AJAX and JSON to Build a Photo Wall <span>by Kyle Rush</span></a></h1>
+
+<a id="a-link" href="http://www.flickr.com/photos/kylerush/">Click Here to See My Flickr Photos</a>
+<div id="tut-info" class="clearfix">
+                <a>View Tutorial &gt;&gt;</a>
+                <a>How to Use the Flickr API &gt;&gt;</a>
+                <a href="http://www.kylerush.net">kylerush.net &gt;&gt;</a></div>
+
+<!--#tut-info-->
+
+<!--#image-container--></div>
+
+<!--#container--></pre>
+</div>
+<p>The CSS is fairly self explanatory. I floated the &#8216;image-container&#8217; class to the left since I want all the photos to display in rows of three. I&#8217;m letting the browser wrap them within the container. Next, I just applied some styling to suit my taste:</p>
+<div class="clear">
+<pre class="brush: css">body, html {background: #000; font-size: 12px;}
+#container {width: 810px; margin: 0 auto 0 auto;}
+#notice {color: #fff; font-weight: bold; font-size: 15px; font-style: italic;}
+h1 {font-size: 38px; line-height: 45px;}
+h1 span {font-size: 16px; color: #ff0084;}
+h1 a:hover span {color: #fff;}
+#tut-info {width: 810px; margin: 0 0 20px 0;}
+#tut-info a {float: left; display: block; background: #fff; font-size: 20px; padding: 20px 20px; font-weight: bold; margin: 0 15px 0 0;}
+#tut-info a:hover {background: #ff0084;}
+#loader {margin: 20px 0 40px 350px;}
+.image-container {height: 180px; width: 240px; position: relative; float: left; margin: 0 20px 20px 0; background-color: #666; border: 5px solid #fff; overflow: hidden;}
+.image-info {display: none;}
+.image-info-active {height: 180px; width: 240px; background: rgba(255,255,255,.85);}
+a {cursor: pointer; text-decoration: none; color: #0063dc;}
+a:hover {color: #fff; background: #0063dc;}
+a.title {color: #ff0084;}
+a.title:hover {color: #fff; background: #ff0084;}
+.bottom {padding: 5px;}
+.bottom p {margin: 0 0 5px 0; }
+p.top {background: #fff; width: 240px; padding: 0 0 5px 0; margin: 0;}
+a.title {font-size: 20px; font-weight: bold; display: block; line-height: 20px;}
+span.author {font-size: 10px;}
+.infoTitle {font-weight: bold;}
+.clearfix:after { content:"."; display:block; height:0; clear:both; visibility:hidden; }
+.clearfix {display:inline-block;}
+.clearfix {display:block;}</pre>
+</div>
+<h2>Starting the jQuery and the Initial Ajax Request</h2>
+<p>In the code below, line 1 starts the doc ready function of jQuery. This is the same as using <span class="code">document.ready</span>. Immediately after, I remove the accessibility link (#a-link). Then, I append a &#8216;loading&#8217; image into the <span class="code">#image-container</span> element so that if the user has a slow connection or Flickr is taking a while to respond, he/she will know that the JavaScript is actually running. <a href="http://www.ajaxload.info/">Ajaxload</a> is a very easy to use online app that will generate an animated loading gif images. On line seven, I set my Flickr API key equal to the variable <span class="code">apiKey</span>. Since I&#8217;ll be using my API key in several parts of this script, it&#8217;s easier to have it stored in one place in case I need to change it. Line 11 starts the Ajax request to Flickr. To send the request, I&#8217;ve used jQuery&#8217;s <a href="http://docs.jquery.com/Ajax/jQuery.getJSON">getJSON</a> method. This method allows for cross-domain Ajax calls, meaning that you can request data from a different domain than that of which the script is running. Ajax is not inherently cross-domain and takes some hacking to do so, but jQuery makes it easy for us.</p>
+<p>Notice the URL for the Ajax request. Instead of providing my API key, I have just referenced the variable that holds my API key that I created earlier. I do this by using the <span class="code">+</span> operator to concatenate the variable into the string. So the <span class="code">&#8216;</span> (apostrophe) character at the beginning of the URL starts the string and it then ends after <span class="code">&amp;apiKey=</span>. The plus sign concatenates the variable into the string and then we add another string after the <span class="code">apiKey</span> variable. After JavaScript processes that statement, it will look like <span class="code">http://api.flickr.com/services/rest/?&amp;method=flickr.people.getPublicPhotos&amp;api_key=[YOUR API KEY]&amp;user_id=29096781@N02&amp;per_page=12&amp;page=4&amp;format=json&amp;jsoncallback=?</span> where <strong>[YOUR API KEY]</strong> is the value of the apiKey variable/your Flickr API key.</p>
+<div class="clear">
+<pre class="brush: jscript">$(function(){
+    jQuery('#a-link').remove();   
+
+    jQuery('<img alt="" />').attr('id', 'loader').attr('src', 'ajax-loader.gif').appendTo('#image-container');
+
+    //assign your api key equal to a variable
+    var apiKey = '[YOUR API KEY]';
+
+    //the initial json request to flickr
+    //to get your latest public photos, use this request: http://api.flickr.com/services/rest/?&amp;method=flickr.people.getPublicPhotos&amp;api_key=' + apiKey + '&amp;user_id=29096781@N02&amp;per_page=15&amp;page=2&amp;format=json&amp;jsoncallback=?
+	$.getJSON('http://api.flickr.com/services/rest/?&amp;method=flickr.photosets.getPhotos&amp;api_key=' + apiKey + '&amp;photoset_id=72157619415192530&amp;format=json&amp;jsoncallback=?',</pre>
+</div>
+<h2>Understanding JSON</h2>
+<p>Flickr responses in JSON format are not very readable in order to save space. So a typical response of the <a href="http://www.flickr.com/services/api/flickr.people.getPublicPhotos.html"><span class="code">flickr.people.getPublicPhotos</span></a> method is: <span class="code">jsonFlickrApi({&#8221;photos&#8221;:{&#8221;page&#8221;:4, &#8220;pages&#8221;:52, &#8220;perpage&#8221;:3, &#8220;total&#8221;:&#8221;154&#8243;, &#8220;photo&#8221;:[{"id":"3606437738", "owner":"29096781@N02", "secret":"7a02f95b14", "server":"2480", "farm":3, "title":"Water Fountain Closeup", "ispublic":1, "isfriend":0, "isfamily":0}, {"id":"3605617857", "owner":"29096781@N02", "secret":"2f9da1d270", "server":"3385", "farm":4, "title":"Water Fountain Closeup", "ispublic":1, "isfriend":0, "isfamily":0}, {"id":"3605617773", "owner":"29096781@N02", "secret":"bf1c89212e", "server":"2463", "farm":3, "title":"Water Fountain Closeup", "ispublic":1, "isfriend":0, "isfamily":0}]}, &#8220;stat&#8221;:&#8221;ok&#8221;})</span>. I have limited this request to three photos for brevity using the <span class="code">&amp;per_page=3</span> argument. For something more readable, I copied that code and pasted it into the online <a href="http://jsbeautifier.org/">JavaScript Beautifier</a>. The result is below.</p>
+<div class="clear">
+<pre class="brush: jscript">jsonFlickrApi({
+    "photos": {
+        "page": 4,
+        "pages": 52,
+        "perpage": 3,
+        "total": "154",
+        "photo": [{
+            "id": "3606437738",
+            "owner": "29096781@N02",
+            "secret": "7a02f95b14",
+            "server": "2480",
+            "farm": 3,
+            "title": "Water Fountain Closeup",
+            "ispublic": 1,
+            "isfriend": 0,
+            "isfamily": 0
+        },
+        {
+            "id": "3605617857",
+            "owner": "29096781@N02",
+            "secret": "2f9da1d270",
+            "server": "3385",
+            "farm": 4,
+            "title": "Water Fountain Closeup",
+            "ispublic": 1,
+            "isfriend": 0,
+            "isfamily": 0
+        },
+        {
+            "id": "3605617773",
+            "owner": "29096781@N02",
+            "secret": "bf1c89212e",
+            "server": "2463",
+            "farm": 3,
+            "title": "Water Fountain Closeup",
+            "ispublic": 1,
+            "isfriend": 0,
+            "isfamily": 0
+        }]
+    },
+    "stat": "ok"
+})</pre>
+</div>
+<p><!--.clear--></p>
+<p>To access data in the array, we just follow the simple structure. If you imagine that the entire array is called, say &#8216;data&#8217;, then <span class="code">data.photos.pages</span> would return the value <span class="code">52</span>. In this tutorial, we&#8217;re not interested in how many pages of images are available, so <span class="code">data.photos.photo.title[0]</span> (JavaScript starts its numbers at 0 instead of 1) would return <strong>&#8220;Water Fountain Closeup&#8221;</strong> for the first image. Since we know we&#8217;ll have more than one image, but we don&#8217;t necessarily know how many, we can create a loop that will pull the data we need for each photo that exists. That will be covered next.</p>
+<h2>Getting Basic Information and the Geo Location of Each Photo</h2>
+<p>Line 1 continues the jQuery JSON request and instructs jQuery to run the code within the function when the data is received. Line 4 in the following code starts jQuery&#8217;s <a href="http://docs.jquery.com/Utilities/jQuery.each">.each()</a> method, which is arguably an easier way to write a for loop. This loop will carry out a function through each of the items (photos) that Flickr sent. On line 7 I created a string variable that contains a URL for the image on which the loop is currently on (information on how the URL is build can be <a href="http://kylerush.net/flickr/flickr-api#working-with-the-data">found here</a> or on the <a href="http://www.flickr.com/services/api/misc.urls.html">Flickr API URL info page</a>). Notice how and where I place the data from Flickr&#8217;s JSON response. I will later use this variable as the value of the <span class="code">href</span> parameter of the anchor linking back to the image. After that, on line 10, I turn the photo&#8217;s ID into a variable as I will be using this several times.</p>
+<p>We have pretty much all the basic information on the photo from our first Ajax request, but if you look carefully you can see that the geo location is not provided. To get this, we start another Ajax request on line 13 using the Flickr API&#8217;s <a href="http://www.flickr.com/services/api/flickr.photos.geo.getLocation.html">flickr.photos.geo.getLocation</a> method. We already have required arguments, so look carefully how I placed them into the URL. On line 14 I tell jQuery to run a function as soon as the data is received. On line 13 I use a conditional statement to see if my request was a failure. I do this because not all photos on Flickr have a geo location and if they don&#8217;t, Flickr will respond with failed request details. Here is the response Flickr will give if one of the pictures I request has no geo location: <span class="code">jsonFlickrApi({&#8221;stat&#8221;:&#8221;fail&#8221;, &#8220;code&#8221;:2, &#8220;message&#8221;:&#8221;Photo has no location information.&#8221;})</span>. If <span class="code">data.stat</span> is ever in the response then the request has failed. So, the conditional statement on line 17 tells JavaScript that if <span class="code">data.stat</span> does not exist, continue with the following code. In the following code on line 18, I create a variable called <span class="code">pLocation</span> (the keyword <span class="code">location</span> is reserved in JavaScript) that contains a string of HTML combined with the latitude and longitude from the request. In the HTML of this, I have included a link to the Flickr map where the image was taken because we have latitude/longitude data. You may have noticed that earlier I use the <span class="code">var</span> keyword to declare the <span class="code">apiKey</span> variable while this time I did not. In JavaScript, variables declared with the <span class="code">var</span> keyword are <strong>local</strong> variables that live inside the function in which they were created. Variables declared without <span class="code">var</span> are global and can be accessed outside the function in which they were created. I decided to make <span class="code">pLocation</span> a global variable because I will need to access it outside of the function I created it later on in the code. When possible, you should always use local variables as global variables can interfere with each other and cause you some headaches. At the end of first the loop I will delete this global variable so that it doesn&#8217;t cause problems when the loop moves to the next image.</p>
+<div class="wp-caption alignnone" style="width: 640px"><img title="Each Image Will Link to Its Latitude and Longitude on the Flickr Map" src="/images/flickr-tutorial/flickr-map.jpg" alt="Each Image Will Link to Its Latitude and Longitude on the Flickr Map" width="630" height="200" /><p class="wp-caption-text">Each Image Will Link to It&#39;s Latitude and Longitude on the Flickr Map</p></div>
+<div class="clear">
+<pre class="brush: jscript">function(data){
+
+    //loop through the results with the following function
+    $.each(data.photoset.photo, function(i,item){
+
+        //build the url of the photo in order to link to it
+        var photoURL = 'http://farm' + item.farm + '.static.flickr.com/' + item.server + '/' + item.id + '_' + item.secret + '_m.jpg'
+
+        //turn the photo id into a variable
+        var photoID = item.id;
+
+        //use another ajax request to get the geo location data for the image
+        $.getJSON('http://api.flickr.com/services/rest/?&amp;method=flickr.photos.geo.getLocation&amp;api_key=' + apiKey + '&amp;photo_id=' + photoID + '&amp;format=json&amp;jsoncallback=?',
+        function(data){
+
+            //if the image has a location, build an html snippet containing the data
+            if(data.stat != 'fail') {
+                pLocation = '<a href="http://www.flickr.com/map?fLat=' + data.photo.location.latitude + '&amp;fLon=' + data.photo.location.longitude + '&amp;zl=1" target="_blank">' + data.photo.location.locality._content + ', ' + data.photo.location.region._content + ' (Click for Map)</a>';
+            }
+        });</pre>
+</div>
+<h2>Getting the Flickr Tags of the Images</h2>
+<p>Line 2 in the following code starts another Ajax request similar to the one that I used to get the geo location. The only difference is the URL. When the request is complete, I used a conditional statement on line 6 that searches the response data to see if there are any tags. In JavaScript, this is known <span class="code">!=</span> as an <strong>is not</strong> operator. It is the opposite of <span class="code">==</span>. So, if <span class="code">data.photo.tags.tag</span> is not empty (specified by empty apostrophes: <span class="code">&#8221;</span>), then run the following code.</p>
+<p>I chose to hold each tag in an <a href="http://www.w3schools.com/JS/js_obj_array.asp">Array</a>. To do this, I set the variable <span class="code">tagsArr</span> equal to a new array. On line 12 I start a new for each loop to loop through each tag since they are grouped separately. The only thing different on this loop is that I use <span class="code">j</span> instead of <span class="code">i</span> so as to not have any confusion with the geo code loop which uses the variable <span class="code">i</span>. Next, on line 15, I add some HTML that contains the tag data to the <span class="code">tagsArr</span> array using JavaScript&#8217;s <a href="http://www.w3schools.com/jsref/jsref_push.asp">.push()</a> method. When that loop is finished going through the tags, I use the <a href="http://www.w3schools.com/jsref/jsref_join.asp">.join()</a> method on line 20 to combine all the tags in the array into a string that will be easier to use later. I created a new variable <span class="code">tags</span> and set it to a value of the tags.</p>
+<div class="clear">
+<pre class="brush: jscript">//use another ajax request to get the tags of the image
+$.getJSON('http://api.flickr.com/services/rest/?&amp;method=flickr.photos.getInfo&amp;api_key=' + apiKey + '&amp;photo_id=' + photoID + '&amp;format=json&amp;jsoncallback=?',
+    function(data){
+
+        //if the image has tags
+        if(data.photo.tags.tag != '') {
+
+        //create an empty array to contain all the tags
+        var tagsArr = new Array();
+
+        //for each tag, run this function
+        $.each(data.photo.tags.tag, function(j, item){
+
+            //push each tag into the empty 'tagsArr' created above
+            tagsArr.push('<a href="http://www.flickr.com/photos/tags/' + item._content + '">' + item.raw + '</a>');
+
+            });
+
+            //turn the tags array into a string variable
+            var tags = tagsArr.join(', ');
+        }</pre>
+</div>
+<h2>Preparing the Variable to Append to the Document</h2>
+<p>Now that we have prepared all of our data in nice little variables that we can use, we need to combine it all into one variable that we can easily insert into the DOM. On line 2 I create this variable and give it a value of some HTML interlaced with some of the data from the request received. On line 5, I use a conditional statement to see if the <span class="code">tags</span> variable exists. It will only exist if there were tags in our data because if there weren&#8217;t, our previous conditional statement wouldn&#8217;t have run the code that created the variable in the first place. Returning the <span class="code">typeof</span> of a variable will tell you what kind of variable it is. If the <span class="code">typeof</span> is undefined, then the variable doesn&#8217;t exist. On line 8, I use the <span class="code">+=</span> operator to concatenate a string onto the previously created <span class="code">imgCont</span> variable.</p>
+<p>On line 12, I do the exact same thing with the geo location data as I did with the tags on line 5. I add the description of the image to the <span class="code">imgCont</span> variable on line 19. Now that the <span class="code">imgCont</span> variable contains all the data I want it to, I use jQuery&#8217;s <a href="http://docs.jquery.com/Manipulation/appendTo">appendTo()</a> method to insert the picture and all its data into the <span class="code">#image-container</span> div in the HTML. Directly after that I delete the global variable <span class="code">pLocation</span> so that it doesn&#8217;t repeat in the next loop because that will be a different image.</p>
+<div class="clear">
+<pre class="brush: jscript">//create an imgCont string variable which will hold all the link location, title, author link, and author name into a text string
+var imgCont = '
+<div class="image-container" style="background: url(' + photoURL + ');">
+<div class="image-info">
+
+<a class="title" href="http://www.flickr.com/photos/' + data.photo.owner.nsid + '/' + photoID + '">' + data.photo.title._content + '</a> <span class="author">by <a href="http://flickr.com/photos/' + data.photo.owner.nsid + '">' + data.photo.owner.username + '</a></span>
+<div class="bottom">
+
+<span class="infoTitle">Comments:</span> ' + data.photo.comments._content + '
+
+';
+
+//if there are tags associated with the image
+if (typeof(tags) != 'undefined') {
+
+    //combine the tags with an html snippet and add them to the end of the 'imgCont' variable
+    imgCont += '
+
+<span class="infoTitle">Tags:</span> ' + tags + '
+
+';
+}
+
+//if the image has geo location information associate with it
+if(typeof(pLocation) != 'undefined'){
+
+    //combine the geo location data into an html snippet and at that to the end fo the 'imgCont' variable
+    imgCont += '
+
+<span class="infoTitle">Location:</span> ' + pLocation + '
+
+';
+}
+
+//add the description &amp; html snippet to the end of the 'imgCont' variable
+imgCont += '
+
+<span class="infoTitle">Decription:</span> ' + data.photo.description._content + '</div>
+</div>
+
+';
+
+//append the 'imgCont' variable to the document
+$(imgCont).appendTo('#image-container');
+
+//delete the pLocation global variable so that it does not repeat
+delete pLocation;
+});
+
+});
+});</div>
+</pre>
+</div>
+<h2>Adding the Rollover Effect and Removing the Loading Image</h2>
+<div class="wp-caption alignnone" style="width: 640px"><img title="An Image which Reveals Information on Mouseover" src="/images/flickr-tutorial/mouseover.jpg" alt="An Image which Reveals Information on Mouseover" width="630" height="200" /><p class="wp-caption-text">An Image which Reveals Information on Mouseover</p></div>
+<p>In the following code, I use jQuery&#8217;s <a href="http://docs.jquery.com/Events/live">.live()</a> method to apply a function when our images are either rolled over or rolled off of. In this situation I have to use <span class="code">.live()</span> instead of <span class="code">.hover()</span> because I need the rollover to apply to elements inserted into the DOM after the DOM was loaded. <span class="code">.live()</span> is an awesome method that will apply a function to all elements that match the selector no matter when they are added to the DOM. To create the rollover, I just change the class of the image container to a class that&#8217;s <span class="code">display</span> property is not <span class="code">none</span>. Line 5 just reverses this previous function when the mouse hovers off the image. The last thing is to remove the loader image since everything is done. Although all images may not have been loaded, everything has been added to the document. We could create a function that checks to see if the last image was loaded and then to remove the loader image, but this tutorial is already quite long.</p>
+<div class="clear">
+<pre class="brush: jscript">//assign hover actions to each image
+$('.image-container').live('mouseover', function(){
+    $(this).children('div').attr('class', 'image-info-active');
+});
+$('.image-container').live('mouseout', function(){
+    $(this).children('div').attr('class', 'image-info');
+});
+
+jQuery('#loader').remove();
+
+});</pre>
+</div>
+<h2>Conclusion</h2>
+<p>Congratulations on building a dynamic Flickr photo wall. I know it was a long tutorial, but I wanted to provide as much information as possible. Was the tutorial helpful for you? See anything that should be changed? Want to see more tutorials like this? Let me know in the comments!</p>
+<p><script type="text/javascript" src="http://kylerush.net/syntax-highlighter/scripts/shCore.js"></script><br />
+<script type="text/javascript" src="http://kylerush.net/syntax-highlighter/scripts/shBrushJScript.js"></script><br />
+<script type="text/javascript" src="http://kylerush.net/syntax-highlighter/scripts/shBrushCss.js"></script><br />
+<script type="text/javascript" src="http://kylerush.net/syntax-highlighter/scripts/shBrushXml.js"></script></p>
+<link type="text/css" rel="stylesheet" href="http://kylerush.net/syntax-highlighter/styles/shCore.css"/>
+<link type="text/css" rel="stylesheet" href="http://kylerush.net/syntax-highlighter/styles/shThemeDefault.css"/>
+<script type="text/javascript">// <![CDATA[
+		SyntaxHighlighter.config.clipboardSwf = 'http://kylerush.net/syntax-highlighter/scripts/clipboard.swf';
+		SyntaxHighlighter.all();
+// ]]&gt;</script></p>
+]]></content:encoded>
+			<wfw:commentRss>http://kylerush.net/javascript/tutorial-flickr-api-javascript-jquery-ajax-json-build-detailed-photo-wall/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+
+		<title>How to Use the Flickr API</title>
+		<link>http://kylerush.net/flickr/flickr-api/</link>
+		<comments>http://kylerush.net/flickr/flickr-api/#comments</comments>
+		<pubDate>Thu, 11 Jun 2009 02:36:12 +0000</pubDate>
+		<dc:creator>Kyle Rush</dc:creator>
+				<category><![CDATA[Flickr]]></category>
+
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Flickr API Key]]></category>
+		<category><![CDATA[JSON]]></category>
+
+		<guid isPermaLink="false">http://www.kylerush.net/?p=192</guid>
+		<description><![CDATA[Flickr is a very well developed web application that allows you to store and share your photos. The site has an easy to use API that will allow you to use access almost all of the data on Flickr. In this tutorial, you'll learn how the basics of using the API, requesting data in JSON format, experimenting with an optional argument, and what to do with the data you receive from a request.]]></description>
+			<content:encoded><![CDATA[<div class="wp-caption alignnone" style="width: 640px"><img title="Flickr Logo" src="/images/flickr/flickr-logo.jpg" alt="Photo by Kyle Rush" width="630" height="200" /><p class="wp-caption-text">Photo by Kyle Rush</p></div>
+<div class="demo">
+<p><a href="http://api.flickr.com/services/rest/?&amp;method=flickr.people.getPublicPhotos&amp;api_key=4ef2fe2affcdd6e13218f5ddd0e2500d&amp;user_id=29096781@N02" target="_blank">DEMO: Basic Flickr API Request</a></div>
+<p>The <a href="http://www.flickr.com/services/api/">Flickr API</a> is a powerful way to interact with Flickr accounts. With the API, you can read almost all the data associated with pictures and sets. You can also upload pictures through the API and change/add picture information. Luckily this all pretty easy. In this post, I&#8217;ll broadly explain how to use the Flickr API so you can get started in any programming language. Tutorials and examples of how to use the API with JavaScript will come in later posts.</p>
+<h2 id="getting-flickr-api-key">Getting a Flickr API Key</h2>
+<p>The first thing you need is an API key. The API key is a way for Yahoo! to track the activity associated with each API key. It is essentially your user-name for the Flickr API. You can get an API key fairly easily depending on the type of project you are doing. If you&#8217;re producing a commercial product, then Yahoo! will want to know about it. You&#8217;ll need a special API key for that type of project and Yahoo! will have to approve your product. However, if you&#8217;re just experimenting and producing a non-commercial product, you can get an API key instantly. Login or create an account and then go to the <a href="http://www.flickr.com/services/api/keys/apply/">Flickr API key request</a>. Note: API keys are necessary for most methods of the Flickr API.</p>
+<div class="wp-caption alignnone" style="width: 640px"><img title="Flickr API Key Application Application" src="/images/flickr/flickr-apply-for-api-key.jpg" alt="Flickr API Key Application Application" width="630" height="200" /><p class="wp-caption-text">Flickr API Key Application Application</p></div>
+<h2 id="how-it-works">How It Works</h2>
+<p>The first step to working with the <a href="http://www.flickr.com/services/api/">Flickr API</a> is having a broad understanding of how it works. There are essentially three steps to working with the API. First, you need to send Flickr a request of the information you would like. This is done by building a special URL (more on this later). Second, once Flickr understands your correctly built URL, it will send the information that you requested. The last step is to do something with the data with which Flickr responded. Whatever you&#8217;re doing with the Flickr API, your interaction will follow these three steps.</p>
+<h2 id="api-methods">Using the API Methods</h2>
+<p>To send a request to Flickr, use the API methods to build a URL telling Flickr exactly what it is you want. All of the URLs start off with:</p>
+<blockquote><p>http://api.flickr.com/services/rest/?</p></blockquote>
+<p>They then continue based on what data you are requesting. Open the <a href="http://www.flickr.com/services/api/" target="_blank">Flickr API Documentation</a> in a separate tab. In the right column of the documentation you&#8217;ll see the API Methods column. You can only use one method per request, so for example, let&#8217;s say you want to pull data on the latest 200 photos from your Flickr account. To do this you&#8217;ll use the &#8216;people&#8217; method, specifically &#8216;flickr.people.getPublicPhotos&#8217;. Now you have another piece of your URL. So, it should now look something like this:</p>
+<blockquote><p>http://api.flickr.com/services/rest/?<strong>&amp;method=flickr.people.getPublicPhotos</strong></p></blockquote>
+<p>Go ahead and <a href="http://www.flickr.com/services/api/flickr.people.getPublicPhotos.html" target="_blank">click on that method</a> to get information on what arguments to include. You&#8217;ll see that there are two required arguments: api_key &amp; user_id. Next, add the api_key argument the same way you did the method: http://api.flickr.com/services/rest/?&amp;method=flickr.people.getPublicPhotos<strong>&amp;api_key=[your api key here]</strong>. The last required argument for this method is user_id. You can easily access your user id as well as lots of other useful information if you are on the <a href="http://www.flickr.com/services/api/flickr.people.getPublicPhotos.html">flickr.people.GetPublicPhotos API page</a> (or any other method&#8217;s page). Scroll to the bottom of the page and click <a>API Explorer: flickr.people.getPublicPhotos</a>. This page will allow you to easily submit a test call to Flickr using that method. In the column on the right you should find your user id. Go ahead and attach this to the end of the URL that you&#8217;ve build so far and give it a try:</p>
+<blockquote id="full-url-one"><p>http://api.flickr.com/services/rest/?&amp;method=flickr.people.getPublicPhotos&amp;api_key=[your api key here]<strong>&amp;user_id=[your user id here]</strong></p></blockquote>
+<div id="demo-one" class="demo">
+<p><a href="http://api.flickr.com/services/rest/?&amp;method=flickr.people.getPublicPhotos&amp;api_key=4ef2fe2affcdd6e13218f5ddd0e2500d&amp;user_id=29096781@N02" target="_blank">DEMO: Basic Flickr API Request</a></div>
+<div class="wp-caption alignnone" style="width: 640px"><img title="Example Flickr API Response" src="/images/flickr/flickr-example-response.png" alt="Example Flickr API Response" width="630" height="200" /><p class="wp-caption-text">Example Flickr API Response</p></div>
+<h2 id="going-further">Going a Little Further</h2>
+<p>Now that you have the basics down, let&#8217;s look at how to go a little further with requests. After looking at the <a href="#full-url-one">first complete request</a>, you may have noticed that Flickr sent the data in XML format. This is because you didn&#8217;t specify an output format and XML is the default. On the <a href="http://www.flickr.com/services/api/" target="_blank">Flickr API Documentation homepage</a>, there is a section that reads &#8216;Response Formats&#8217;. Let&#8217;s adjust your request so that Flickr responds with the data in JSON format.</p>
+<h3 id="retrieving-json-data">Retrieving Data in the JSON Format</h3>
+<p>To receive data in JSON, all you need to do is add the <strong>&#8216;format&#8217;</strong> argument to the URL and give it a value of <strong>&#8216;json&#8217;</strong>:</p>
+<blockquote id="json-format"><p>http://api.flickr.com/services/rest/?&amp;method=flickr.people.getPublicPhotos&amp;api_key=[your api key here]&amp;user_id=[your user id here]<strong>&amp;format=json</strong></p></blockquote>
+<div id="demo-two" class="demo">
+<p><a href="http://api.flickr.com/services/rest/?&amp;method=flickr.people.getPublicPhotos&amp;api_key=4ef2fe2affcdd6e13218f5ddd0e2500d&amp;user_id=29096781@N02&amp;format=json" target="_blank">DEMO: Retrieve Data in JSON Format</a></div>
+<h3 id="specifying-number-results">Specifying the Number of Results</h3>
+<p>Back on the <a href="http://www.flickr.com/services/api/flickr.people.getPublicPhotos.html">flickr.people.getPublicPhotos</a> method page you may have noticed an argument named <strong>per_page</strong>. You can use this argument to tell Flickr how many results you would like per request. Flickr notes that the default is 100 and the maximum is 500. As with the other arguments, just add it to the URL with the value you want:</p>
+<blockquote id="per-page"><p>http://api.flickr.com/services/rest/?&amp;method=flickr.people.getPublicPhotos&amp;api_key=[your api key here]&amp;user_id=[your user id here]<strong>&amp;format=json&amp;per_page=500</strong></p></blockquote>
+<div id="demo-two" class="demo">
+<p><a href="http://api.flickr.com/services/rest/?&amp;method=flickr.people.getPublicPhotos&amp;api_key=4ef2fe2affcdd6e13218f5ddd0e2500d&amp;user_id=29096781@N02&amp;per_page=500">DEMO: Retrieve 500 Results Per Page</a></div>
+<h2 id="working-with-the-data">Working With the Data</h2>
+<p>Now that you have a bunch of data from Flickr, you&#8217;ll probably want to do something with it. Let&#8217;s use it to find the URL to one of the photos in the XML response. To do this, you first need to figure out the URL structure for photos in Flickr. I did a search on Flickr and found this photo: <a href="http://www.flickr.com/photos/cobalt/157623061/" target="_blank">http://www.flickr.com/photos/cobalt/157623061/</a>. Notice the URL structure. The first segment (www.flickr.com) is the domain you are accessing, the second (photos) is what you are accessing, the third (cobalt) is presumably a user-name of the owner of the photo (although you may not know this if you&#8217;ve never worked with Flickr) and finally, the fourth (157623061) appears to be an ID number. Based on that URL, you may be able to guess that only two of those segments change depending on the picture (the third segment&#8211;the owner and the fourth&#8211;the ID number). Well guess what? You have both of those in each <em>&lt;photo&gt;</em> element in your response from Flickr. They are stored as parameters of the <em>&lt;photo&gt;</em> element (e.g. id=&#8221;3606438858&#8243; and owner=&#8221;29096781@N02&#8243;). Here is data on one of the photos Flickr responded with:</p>
+<blockquote><p>&lt;photo id=&#8221;3606436456&#8243; owner=&#8221;29096781@N02&#8243; secret=&#8221;3409b568ff&#8221; server=&#8221;3601&#8243; farm=&#8221;4&#8243; title=&#8221;IMG_0547&#8243; ispublic=&#8221;1&#8243; isfriend=&#8221;0&#8243; isfamily=&#8221;0&#8243;/&gt;</p></blockquote>
+<p>Go ahead and replace the &#8216;photo id&#8217; and &#8216;owner&#8217; values in the URL of the sunflower picture above. You should have something like this:</p>
+<blockquote><p><a href="http://www.flickr.com/photos/29096781@N02/3606436456/" target="_blank">http://www.flickr.com/photos/29096781@N02/3606436456/</a></p></blockquote>
+<p>If you click that, you will be taken to a photo that I took. However, if you put in the &#8216;photo id&#8217; and &#8216;owner&#8217; values of one of the photo elements in the data you requested from Flickr, then you will most likely be taken to a different photo.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Congratulations! You now understand the basics of using the Flickr API. To recap, you first send a request to Flickr by building a URL. If your request is valid, Flickr will then send data back. The final step is actually doing something with the data. In this tutorial, we extracted the values of the &#8216;photo id&#8217; and &#8216;owner&#8217;, built a new URL, and sent it to Flickr. If you did everything correct, then you got a pretty picture back.</p>
+<p>In the next tutorial, I&#8217;ll show you how to automate the use of the Flickr API with JavaScript, jQuery and JSON so that you can really get into the API.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://kylerush.net/flickr/flickr-api/feed/</wfw:commentRss>
+
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Safari 4 beta Didn&#8217;t Beat Opera 10 to Passing Acid 3</title>
+		<link>http://kylerush.net/browsers/safari-4-beta-beat-opera-10-alpha-acid-3/</link>
+		<comments>http://kylerush.net/browsers/safari-4-beta-beat-opera-10-alpha-acid-3/#comments</comments>
+
+		<pubDate>Tue, 24 Feb 2009 18:28:33 +0000</pubDate>
+		<dc:creator>Kyle Rush</dc:creator>
+				<category><![CDATA[Browsers]]></category>
+
+		<guid isPermaLink="false">http://www.kylerush.net/?p=177</guid>
+		<description><![CDATA[Something isn&#8217;t right. Apple released Safari 4 beta today and claims &#8220;Safari is the first &#8211; and only &#8211; web browser to pass Acid 3.&#8221;
+There is only one problem with this, Opera 10 Alpha has passed Acid 3 since at least December 4th, 2008. How can Apple make this claim?
+
+
+]]></description>
+			<content:encoded><![CDATA[<p>Something isn&#8217;t right. Apple released Safari 4 beta today and claims <a title="Safari Claims First and Only Browser to Pass Acid 3" href="http://www.apple.com/safari/features.html" target="_blank">&#8220;Safari is the first &#8211; and only &#8211; web browser to pass Acid 3.&#8221;</a></p>
+<p>There is only one problem with this, Opera 10 Alpha has <a title="Opera 10 Alpha Passes Acid 3" href="http://dev.opera.com/articles/view/presto-2-2-and-opera-10-a-first-look/" target="_blank">passed Acid 3</a> since at least December 4th, 2008. How can Apple make this claim?</p>
+<p><a href="http://www.apple.com/safari/features.html"><img src="http://www.kylerush.net/images/safariClaims.png" alt="Safari Claims First and Only Broswer to Pass Acid 3" width="292" height="352" /></a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://kylerush.net/browsers/safari-4-beta-beat-opera-10-alpha-acid-3/feed/</wfw:commentRss>
+
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>CSS Tiled Background Images and RAM</title>
+		<link>http://kylerush.net/ram/css-tiled-background-images-ram/</link>
+		<comments>http://kylerush.net/ram/css-tiled-background-images-ram/#comments</comments>
+		<pubDate>Mon, 06 Oct 2008 15:41:39 +0000</pubDate>
+
+		<dc:creator>Kyle Rush</dc:creator>
+				<category><![CDATA[RAM]]></category>
+		<category><![CDATA[Background Image]]></category>
+		<category><![CDATA[Browsers]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Firefox 3]]></category>
+		<category><![CDATA[Tiled]]></category>
+
+		<guid isPermaLink="false">http://local.kylerush.net/?p=106</guid>
+		<description><![CDATA[I was developing a website the other day that uses several tiled background images defined in its global style sheet and started wondering how that was affecting the visitors RAM. I started out using very small, 5 x 5 pixel semi-transparent .png images as my tile, but started to wonder if it takes more RAM [...]]]></description>
+			<content:encoded><![CDATA[<p>I was developing a website the other day that uses several tiled background images defined in its global style sheet and started wondering how that was affecting the visitors RAM. I started out using very small, 5 x 5 pixel semi-transparent .png images as my tile, but started to wonder if it takes more RAM for the browser to tile that tiny image rather than a larger image. It seemed to me that the more the browser has to tile the more RAM it will require. Well, I put it to a test. I created two background tiles of the same, non-web safe color&#8211;one 5X5 pixels and the other 100X100 pixels. I defined the tiles as a style in the HTML document itself. Then I created another HTML file and defined a background color with CSS also inside the document.</p>
+<p>Below is a table of my findings. I ran my computer in safe mode and started all the browsers without extensions. The column &#8216;Default&#8217; is the RAM the browser used with no page open. The column &#8216;No Image&#8217; is the HTML document with the background color defined by a hexadecimal color in the CSS and not a tiled image. The last column (&#8217;Spread&#8217;) is the difference between the two background tiles (5X5 RAM &#8211; 100X100 RAM = ?). So, positive numbers in the spread mean that the larger tile image used <em>less</em> RAM, while negative numbers mean that the larger tile used <em>more</em> ram.</p>
+<table border="0" summary="A demonstration of how much RAM CSS tiled background images use.">
+<caption>CSS Tiled Background Images RAM Usage</caption>
+<thead>
+<tr class="odd">
+<td class="column1"></td>
+<th scope="col">Default</th>
+<th scope="col">5X5</th>
+<th scope="col">100X100</th>
+<th scope="col">No Image</th>
+<th scope="col">Spread</th>
+</tr>
+</thead>
+<tfoot>
+<tr class="odd">
+<td class="column1"></td>
+<th scope="col"><strong>110,816K</strong></th>
+<th scope="col"><strong>126,596K</strong></th>
+<th scope="col"><strong>126,356K</strong></th>
+<th scope="col"><strong>120,232</strong></th>
+<th scope="col"><strong>+240K</strong></th>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<th class="column1" scope="row">Firefox 3.0.3</th>
+<td>32,128K</td>
+<td>34,976K</td>
+<td>34,464K</td>
+<td>34,788K</td>
+<td>+330K</td>
+</tr>
+<tr class="odd">
+<th class="column1" scope="row">IE 7.0</th>
+<td>18,572K</td>
+<td>20,440K</td>
+<td>20,540K</td>
+<td>20,052K</td>
+<td>-100K</td>
+</tr>
+<tr>
+<th class="column1" scope="row">Opera 9.52</th>
+<td>28,940K</td>
+<td>32,736K</td>
+<td>32,760K</td>
+<td>27,988K</td>
+<td>-24K</td>
+</tr>
+<tr class="odd">
+<th class="column1" scope="row">Safari 3.1.2</th>
+<td>31,176K</td>
+<td>38,444K</td>
+<td>38,592K</td>
+<td>37,404K</td>
+<td>+148K</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Results</strong></p>
+<p>There is a very good deal of variation across the browsers. Firefox and Safari both use less RAM when tiling larger images while the opposite is true for Internet Explorer and Safari. Overall, we can see that the larger tile uses less RAM. An interesting part of the experiment is the &#8216;No Image&#8217; column data. As you can see, defining a background color using CSS uses a significantly lower amount of RAM relative to the tiled images. So, if you care about these minor findings, I&#8217;d say do everything you can to find a hexadecimal number you can work with for a background image. If you can&#8217;t, use as larger image for your background.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://kylerush.net/ram/css-tiled-background-images-ram/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+
+</rss>

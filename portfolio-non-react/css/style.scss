@@ -1,0 +1,69 @@
+@import 'variables';
+/* Global */
+body{
+  background-color:$white;
+}
+/* Item-level */
+#hero{
+  h2{
+    font-size:24px;
+  }
+}
+.outer{
+  padding:1em;
+  h3{
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing: 1px;
+    font-weight:bold;
+  }
+  .descArea{
+    font-size:.875rem;
+  }
+  .pillsOuter{
+    font-size:.75rem;
+  }
+}
+.item{
+  border-radius: 3px;
+  padding-top:47%;
+  box-shadow:0px 1px 3px $black;
+  background-size:cover;
+  background-position:50% 0;
+  display: block;
+}
+.outer{
+  // &:nth-child(1) .item{
+  //   background-image:url('../thumbnails/calle_del_sabor.jpg');
+  // }
+  // &:nth-child(2) .item{
+  //   background-image:url('../thumbnails/nexus_properties.jpg');
+  // }
+  // &:nth-child(3) .item{
+  //   background-image:url('../thumbnails/bulb_finder.jpg');
+  // }
+  // &:nth-child(4) .item{
+  //   background-image:url('../thumbnails/philips_bikelight.jpg');
+  // }
+  // &:nth-child(5) .item{
+  //   background-image:url('../thumbnails/vdo_redi_sensor.jpg');
+  // }
+  // &:nth-child(6) .item{
+  //   background-image:url('../thumbnails/vdo_roadlog.jpg');
+  // }
+  // &:nth-child(7) .item{
+  //   background-image:url('../thumbnails/philips_gopure.jpg');
+  // }
+  // &:nth-child(8) .item{
+  //   background-image:url('../thumbnails/jtsports_com.jpg');
+  // }
+  // &:nth-child() .item{
+  //   background-image:url('../');
+  // }
+  // &:nth-child() .item{
+  //   background-image:url('../');
+  // }
+  // &:nth-child() .item{
+  //   background-image:url('../');
+  // }
+}

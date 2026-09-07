@@ -1,0 +1,2241 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<album>
+<albumName>graphicdesign</albumName>
+<albumItemCount>24</albumItemCount>
+<albumCaption></albumCaption>
+<images>
+<image>
+	<isFirstImage>
+		true
+	</isFirstImage>
+	
+	
+	
+	<isPrevImage>
+		false
+	</isPrevImage>
+	<prevImage />
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/362865286_2b33205bf1_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		461972902_3689ebe5f4_o.jpg
+	</nextImage>
+	<nextThumbnail>
+		461972902_3689ebe5f4_o.jpg
+	</nextThumbnail>
+	<prevImage>
+		
+	</prevImage>
+	<prevThumbnail>
+		
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		1024
+	</itemWidth>
+
+	<itemHeight>
+		408
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/362865286_2b33205bf1_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		42
+	</itemThumbnailHeight>
+
+	<itemName>
+		362865286_2b33205bf1_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16711
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/362865286_2b33205bf1_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		362865286_2b33205bf1_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/461972902_3689ebe5f4_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		1.jpg
+	</nextImage>
+	<nextThumbnail>
+		1.jpg
+	</nextThumbnail>
+	<prevImage>
+		362865286_2b33205bf1_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		362865286_2b33205bf1_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		1024
+	</itemWidth>
+
+	<itemHeight>
+		592
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/461972902_3689ebe5f4_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		57
+	</itemThumbnailHeight>
+
+	<itemName>
+		461972902_3689ebe5f4_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16715
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/461972902_3689ebe5f4_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		461972902_3689ebe5f4_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/1.jpg
+	</itemLargeImage>	
+	<nextImage>
+		2387711037_d8e809684c_o.jpg
+	</nextImage>
+	<nextThumbnail>
+		2387711037_d8e809684c_o.jpg
+	</nextThumbnail>
+	<prevImage>
+		461972902_3689ebe5f4_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		461972902_3689ebe5f4_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		640
+	</itemWidth>
+
+	<itemHeight>
+		480
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/1.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		70
+	</itemThumbnailHeight>
+
+	<itemName>
+		1.jpg
+	</itemName>
+
+	<itemNumber>
+		16704
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/1.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		1.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/2387711037_d8e809684c_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		all_jt_logos___1_file.jpg
+	</nextImage>
+	<nextThumbnail>
+		all_jt_logos___1_file.jpg
+	</nextThumbnail>
+	<prevImage>
+		1.jpg
+	</prevImage>
+	<prevThumbnail>
+		1.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		964
+	</itemWidth>
+
+	<itemHeight>
+		796
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/2387711037_d8e809684c_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		76
+	</itemThumbnailHeight>
+
+	<itemName>
+		2387711037_d8e809684c_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16706
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/2387711037_d8e809684c_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		2387711037_d8e809684c_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/all_jt_logos___1_file.jpg
+	</itemLargeImage>	
+	<nextImage>
+		jtsports_com_1_2.jpg
+	</nextImage>
+	<nextThumbnail>
+		jtsports_com_1_2.jpg
+	</nextThumbnail>
+	<prevImage>
+		2387711037_d8e809684c_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		2387711037_d8e809684c_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		1024
+	</itemWidth>
+
+	<itemHeight>
+		539
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/all_jt_logos___1_file.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		52
+	</itemThumbnailHeight>
+
+	<itemName>
+		all_jt_logos___1_file.jpg
+	</itemName>
+
+	<itemNumber>
+		16719
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/all_jt_logos_-_1_file.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		all_jt_logos___1_file.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/jtsports_com_1_2.jpg
+	</itemLargeImage>	
+	<nextImage>
+		3390957146_ff2bd0a1aa.jpg
+	</nextImage>
+	<nextThumbnail>
+		3390957146_ff2bd0a1aa.jpg
+	</nextThumbnail>
+	<prevImage>
+		all_jt_logos___1_file.jpg
+	</prevImage>
+	<prevThumbnail>
+		all_jt_logos___1_file.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		1024
+	</itemWidth>
+
+	<itemHeight>
+		768
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/jtsports_com_1_2.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		70
+	</itemThumbnailHeight>
+
+	<itemName>
+		jtsports_com_1_2.jpg
+	</itemName>
+
+	<itemNumber>
+		16722
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/jtsports.com_1.2.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		jtsports_com_1_2.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/3390957146_ff2bd0a1aa.jpg
+	</itemLargeImage>	
+	<nextImage>
+		brand_april_2007.jpg
+	</nextImage>
+	<nextThumbnail>
+		brand_april_2007.jpg
+	</nextThumbnail>
+	<prevImage>
+		jtsports_com_1_2.jpg
+	</prevImage>
+	<prevThumbnail>
+		jtsports_com_1_2.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		374
+	</itemWidth>
+
+	<itemHeight>
+		500
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/3390957146_ff2bd0a1aa.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		70
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		3390957146_ff2bd0a1aa.jpg
+	</itemName>
+
+	<itemNumber>
+		16710
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/3390957146_ff2bd0a1aa.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		3390957146_ff2bd0a1aa.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/brand_april_2007.jpg
+	</itemLargeImage>	
+	<nextImage>
+		2013_02_08_01_35_45_pm.jpg
+	</nextImage>
+	<nextThumbnail>
+		2013_02_08_01_35_45_pm.jpg
+	</nextThumbnail>
+	<prevImage>
+		3390957146_ff2bd0a1aa.jpg
+	</prevImage>
+	<prevThumbnail>
+		3390957146_ff2bd0a1aa.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		762
+	</itemWidth>
+
+	<itemHeight>
+		1024
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/brand_april_2007.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		70
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		brand_april_2007.jpg
+	</itemName>
+
+	<itemNumber>
+		16720
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/brand-april-2007.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		brand_april_2007.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/2013_02_08_01_35_45_pm.jpg
+	</itemLargeImage>	
+	<nextImage>
+		778823875_2b30bb7747_o.jpg
+	</nextImage>
+	<nextThumbnail>
+		778823875_2b30bb7747_o.jpg
+	</nextThumbnail>
+	<prevImage>
+		brand_april_2007.jpg
+	</prevImage>
+	<prevThumbnail>
+		brand_april_2007.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		789
+	</itemWidth>
+
+	<itemHeight>
+		1024
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/2013_02_08_01_35_45_pm.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		72
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		2013_02_08_01_35_45_pm.jpg
+	</itemName>
+
+	<itemNumber>
+		17584
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/2013-02-08_01.35.45_pm.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		2013_02_08_01_35_45_pm.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/778823875_2b30bb7747_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		860633848_0ea80f18e2_o.jpg
+	</nextImage>
+	<nextThumbnail>
+		860633848_0ea80f18e2_o.jpg
+	</nextThumbnail>
+	<prevImage>
+		2013_02_08_01_35_45_pm.jpg
+	</prevImage>
+	<prevThumbnail>
+		2013_02_08_01_35_45_pm.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		1024
+	</itemWidth>
+
+	<itemHeight>
+		505
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/778823875_2b30bb7747_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		50
+	</itemThumbnailHeight>
+
+	<itemName>
+		778823875_2b30bb7747_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16716
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/778823875_2b30bb7747_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		778823875_2b30bb7747_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/860633848_0ea80f18e2_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		frienddash.jpg
+	</nextImage>
+	<nextThumbnail>
+		frienddash.jpg
+	</nextThumbnail>
+	<prevImage>
+		778823875_2b30bb7747_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		778823875_2b30bb7747_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		1024
+	</itemWidth>
+
+	<itemHeight>
+		1024
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/860633848_0ea80f18e2_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		860633848_0ea80f18e2_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16717
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/860633848_0ea80f18e2_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		860633848_0ea80f18e2_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/frienddash.jpg
+	</itemLargeImage>	
+	<nextImage>
+		2613321211_bc44cbc47e_o.jpg
+	</nextImage>
+	<nextThumbnail>
+		2613321211_bc44cbc47e_o.jpg
+	</nextThumbnail>
+	<prevImage>
+		860633848_0ea80f18e2_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		860633848_0ea80f18e2_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		1024
+	</itemWidth>
+
+	<itemHeight>
+		768
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/frienddash.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		70
+	</itemThumbnailHeight>
+
+	<itemName>
+		frienddash.jpg
+	</itemName>
+
+	<itemNumber>
+		16721
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/frienddash.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		frienddash.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/2613321211_bc44cbc47e_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		2851684892_828f70566e_o.jpg
+	</nextImage>
+	<nextThumbnail>
+		2851684892_828f70566e_o.jpg
+	</nextThumbnail>
+	<prevImage>
+		frienddash.jpg
+	</prevImage>
+	<prevThumbnail>
+		frienddash.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		1024
+	</itemWidth>
+
+	<itemHeight>
+		790
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/2613321211_bc44cbc47e_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		72
+	</itemThumbnailHeight>
+
+	<itemName>
+		2613321211_bc44cbc47e_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16708
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/2613321211_bc44cbc47e_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		2613321211_bc44cbc47e_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/2851684892_828f70566e_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		2451593003_3ddf228a47_o.jpg
+	</nextImage>
+	<nextThumbnail>
+		2451593003_3ddf228a47_o.jpg
+	</nextThumbnail>
+	<prevImage>
+		2613321211_bc44cbc47e_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		2613321211_bc44cbc47e_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		615
+	</itemWidth>
+
+	<itemHeight>
+		1024
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/2851684892_828f70566e_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		58
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		2851684892_828f70566e_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16709
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/2851684892_828f70566e_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		2851684892_828f70566e_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/2451593003_3ddf228a47_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		1532825133_c0ebbdaab8_o.jpg
+	</nextImage>
+	<nextThumbnail>
+		1532825133_c0ebbdaab8_o.jpg
+	</nextThumbnail>
+	<prevImage>
+		2851684892_828f70566e_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		2851684892_828f70566e_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		864
+	</itemWidth>
+
+	<itemHeight>
+		1024
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/2451593003_3ddf228a47_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		78
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		2451593003_3ddf228a47_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16707
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/2451593003_3ddf228a47_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		2451593003_3ddf228a47_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/1532825133_c0ebbdaab8_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		860696489_d936b2bf29_o.jpg
+	</nextImage>
+	<nextThumbnail>
+		860696489_d936b2bf29_o.jpg
+	</nextThumbnail>
+	<prevImage>
+		2451593003_3ddf228a47_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		2451593003_3ddf228a47_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		1024
+	</itemWidth>
+
+	<itemHeight>
+		701
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/1532825133_c0ebbdaab8_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		65
+	</itemThumbnailHeight>
+
+	<itemName>
+		1532825133_c0ebbdaab8_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16705
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/1532825133_c0ebbdaab8_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		1532825133_c0ebbdaab8_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/860696489_d936b2bf29_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		407150905_185ec6c047_o.jpg
+	</nextImage>
+	<nextThumbnail>
+		407150905_185ec6c047_o.jpg
+	</nextThumbnail>
+	<prevImage>
+		1532825133_c0ebbdaab8_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		1532825133_c0ebbdaab8_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		1024
+	</itemWidth>
+
+	<itemHeight>
+		851
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/860696489_d936b2bf29_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		77
+	</itemThumbnailHeight>
+
+	<itemName>
+		860696489_d936b2bf29_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16718
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/860696489_d936b2bf29_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		860696489_d936b2bf29_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/407150905_185ec6c047_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		395683735_b2f618bd91_o.jpg
+	</nextImage>
+	<nextThumbnail>
+		395683735_b2f618bd91_o.jpg
+	</nextThumbnail>
+	<prevImage>
+		860696489_d936b2bf29_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		860696489_d936b2bf29_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		762
+	</itemWidth>
+
+	<itemHeight>
+		1024
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/407150905_185ec6c047_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		70
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		407150905_185ec6c047_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16714
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/407150905_185ec6c047_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		407150905_185ec6c047_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/395683735_b2f618bd91_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		393420296_cbf03fc3fe_o.jpg
+	</nextImage>
+	<nextThumbnail>
+		393420296_cbf03fc3fe_o.jpg
+	</nextThumbnail>
+	<prevImage>
+		407150905_185ec6c047_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		407150905_185ec6c047_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		1024
+	</itemWidth>
+
+	<itemHeight>
+		1024
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/395683735_b2f618bd91_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		90
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		395683735_b2f618bd91_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16713
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/395683735_b2f618bd91_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		395683735_b2f618bd91_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/393420296_cbf03fc3fe_o.jpg
+	</itemLargeImage>	
+	<nextImage>
+		2_thingz_poster_green.jpg
+	</nextImage>
+	<nextThumbnail>
+		2_thingz_poster_green.jpg
+	</nextThumbnail>
+	<prevImage>
+		395683735_b2f618bd91_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		395683735_b2f618bd91_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		783
+	</itemWidth>
+
+	<itemHeight>
+		1024
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/393420296_cbf03fc3fe_o.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		71
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		393420296_cbf03fc3fe_o.jpg
+	</itemName>
+
+	<itemNumber>
+		16712
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/393420296_cbf03fc3fe_o.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		393420296_cbf03fc3fe_o.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/2_thingz_poster_green.jpg
+	</itemLargeImage>	
+	<nextImage>
+		2_thingz_poster_pink.jpg
+	</nextImage>
+	<nextThumbnail>
+		2_thingz_poster_pink.jpg
+	</nextThumbnail>
+	<prevImage>
+		393420296_cbf03fc3fe_o.jpg
+	</prevImage>
+	<prevThumbnail>
+		393420296_cbf03fc3fe_o.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		792
+	</itemWidth>
+
+	<itemHeight>
+		1024
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/2_thingz_poster_green.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		72
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		2_thingz_poster_green.jpg
+	</itemName>
+
+	<itemNumber>
+		27926
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/2-thingz-poster-green.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		2_thingz_poster_green.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/2_thingz_poster_pink.jpg
+	</itemLargeImage>	
+	<nextImage>
+		2_thingz_poster_blue.jpg
+	</nextImage>
+	<nextThumbnail>
+		2_thingz_poster_blue.jpg
+	</nextThumbnail>
+	<prevImage>
+		2_thingz_poster_green.jpg
+	</prevImage>
+	<prevThumbnail>
+		2_thingz_poster_green.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		792
+	</itemWidth>
+
+	<itemHeight>
+		1024
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/2_thingz_poster_pink.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		72
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		2_thingz_poster_pink.jpg
+	</itemName>
+
+	<itemNumber>
+		27927
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/2-thingz-poster-pink.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		2_thingz_poster_pink.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	
+	<isLastImage>
+		false
+	</isLastImage>
+	
+	<isNextImage>
+		true
+	</isNextImage>
+	
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/2_thingz_poster_blue.jpg
+	</itemLargeImage>	
+	<nextImage>
+		2_thingz_poster_red.jpg
+	</nextImage>
+	<nextThumbnail>
+		2_thingz_poster_red.jpg
+	</nextThumbnail>
+	<prevImage>
+		2_thingz_poster_pink.jpg
+	</prevImage>
+	<prevThumbnail>
+		2_thingz_poster_pink.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		792
+	</itemWidth>
+
+	<itemHeight>
+		1024
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/2_thingz_poster_blue.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		72
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		2_thingz_poster_blue.jpg
+	</itemName>
+
+	<itemNumber>
+		27925
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/2-thingz-poster-blue.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		2_thingz_poster_blue.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+<image>
+	
+	<isFirstImage>
+		false
+	</isFirstImage>
+	
+	<isPrevImage>
+		true
+	</isPrevImage>
+	
+	
+	<isLastImage>
+		true
+	</isLastImage>
+	
+	
+	
+	<isNextImage>
+		false
+	</isNextImage>
+	
+
+
+	<firstImage>
+		images/362865286_2b33205bf1_o.jpg
+	</firstImage>
+	<itemLargeImage>
+		images/2_thingz_poster_red.jpg
+	</itemLargeImage>	
+	<nextImage>
+		
+	</nextImage>
+	<nextThumbnail>
+		
+	</nextThumbnail>
+	<prevImage>
+		2_thingz_poster_blue.jpg
+	</prevImage>
+	<prevThumbnail>
+		2_thingz_poster_blue.jpg
+	</prevThumbnail>
+	<lastImage>
+		images/2_thingz_poster_red.jpg
+	</lastImage>
+	<lastThumbnail>
+		thumbnails/2_thingz_poster_red.jpg
+	</lastThumbnail>
+
+	<itemWidth>
+		792
+	</itemWidth>
+
+	<itemHeight>
+		1024
+	</itemHeight>
+
+	<itemThumbnailImage>
+		thumbnails/2_thingz_poster_red.jpg
+	</itemThumbnailImage>
+
+	<itemThumbnailWidth>
+		72
+	</itemThumbnailWidth>
+
+	<itemThumbnailHeight>
+		90
+	</itemThumbnailHeight>
+
+	<itemName>
+		2_thingz_poster_red.jpg
+	</itemName>
+
+	<itemNumber>
+		27928
+	</itemNumber>
+
+	<itemOriginalPath>
+		/users/pru/dropbox/projects/portfolio/img/graphicdesign/2-thingz-poster-red.jpg
+	</itemOriginalPath>
+
+
+	<itemNameOnly>
+		itemNameOnly UNDEFINED (9)
+	</itemNameOnly>
+	
+	<itemCaption>
+		2_thingz_poster_red.jpg
+	</itemCaption>
+
+	<itemSize>
+		itemSize UNDEFINED (9)
+	</itemSize>
+</image>
+</images>
+</album>

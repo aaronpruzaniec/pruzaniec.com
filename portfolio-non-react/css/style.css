@@ -1,0 +1,36 @@
+/* Global */
+body {
+  background-color: #f2f2f2;
+}
+
+/* Item-level */
+#hero h2 {
+  font-size: 24px;
+}
+
+.outer {
+  padding: 1em;
+}
+.outer h3 {
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+.outer .descArea {
+  font-size: 0.875rem;
+}
+.outer .pillsOuter {
+  font-size: 0.75rem;
+}
+
+.item {
+  border-radius: 3px;
+  padding-top: 47%;
+  box-shadow: 0px 1px 3px #0d0d0d;
+  background-size: cover;
+  background-position: 50% 0;
+  display: block;
+}
+
+/*# sourceMappingURL=style.css.map */

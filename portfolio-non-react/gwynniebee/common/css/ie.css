@@ -1,0 +1,42 @@
+#product .images a, #product .images img {
+  display: inline !important; }
+
+.scroll {
+  position: relative; }
+
+header {
+  position: static !important; }
+
+.main-content {
+  padding-top: 20px; }
+
+.loginOuter {
+  margin-top: -1.4em; }
+
+img {
+  -ms-interpolation-mode: bicubic; }
+
+#content-slide .product .details {
+  right: 15%; }
+
+/***Fading in does not work in IE8-9, so forcing it to show right off the bat ***/
+#content-table .product .image, #content-table .product .image img {
+  display: block !important;
+  opacity: 1 !important; }
+
+.image img, .cy, #content-scroll, .slider, #product .content, #slider {
+  display: block !important;
+  opacity: 1 !important; }
+
+/* for wordpress block comments start */
+#respond input[type="text"] {
+  padding: 10px 7px !important; }
+
+/* end */
+.page-wrapper .header_container, .page-wrapper div.header-v1-container, .page-wrapper div.header_container.header_container_v3 {
+  padding-top: 0 !important; }
+
+nav ul li ul {
+  z-index: 101 !important; }
+
+/*# sourceMappingURL=ie.css.map */
